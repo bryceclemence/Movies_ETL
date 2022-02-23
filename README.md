@@ -1,1 +1,2 @@
-# Movies_ETL
+# Movies ETL
+In this analysis we helped Amazon Prime create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into SQL tables. We refactored the code from the module to create one function that takes in the three files (Wikipedia data, Kaggle metadata, and the MovieLens rating data, we then performed the ETL process by adding the data to a PostgreSQL database.
